@@ -18,7 +18,7 @@ encrypted passwords.
 
 \## Files - \`secure-network.pkt\`: Packet Tracer project file. -
 \`router-config.txt\`: Router configuration. - \`switch-config.txt\`:
-Switch configuration. - \`topology.png\`: Network diagram (optional).
+Switch configuration. - \`topology.png\`: Network diagram.
 
 \## How to Test 1. Open \`secure-network.pkt\` in Packet Tracer. 2. Ping
 within VLANs (e.g., PC1 to PC2). 3. Test inter-VLAN routing (e.g., PC1
